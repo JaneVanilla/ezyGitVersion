@@ -895,38 +895,31 @@ h1, h2, h3 {
     }
     .ideas__banners--1 {
         width: 236px;
-        background: url("img/bitmap.jpg"), no-repeat, right top;
     }
     .ideas__banners--2 {
         width: 236px;
         padding-top: 0;
-        background: url("img/health.jpg"), no-repeat, right top;
         background-size: cover;
     }
     .ideas__banners--3 {
         width: 236px;
         padding-top: 0;
-        background: url("img/extreme.jpg"), no-repeat, center;
         background-size: cover;
     }
     .ideas__banners--4 {
         width: 236px;
-        background: url("img/game.jpg"), no-repeat, right top;
         background-size: cover;
     }
     .ideas__banners--5 {
         width: 492px;
-        background: url("img/culture.jpg"), no-repeat;
         background-size: cover;
     }
     .ideas__banners--6 {
         width: 492px;
-        background: url("img/beauty.jpg"), no-repeat, right top;
         background-size: cover;
     }
     .ideas__banners--7 {
         width: 236px;
-        background: url("img/selfie.jpg"), no-repeat, right top;
         background-size: cover;
     }
 }
